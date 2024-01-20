@@ -1,4 +1,4 @@
-[![.github/workflows/pipeline.yml](https://github.com/RodrigoCaya/nextjs14-project/actions/workflows/pipeline.yml/badge.svg)](https://github.com/RodrigoCaya/nextjs14-project/actions/workflows/pipeline.yml)
+[![Deploy](https://github.com/RodrigoCaya/nextjs14-project/actions/workflows/pipeline.yml/badge.svg)](https://github.com/RodrigoCaya/nextjs14-project/actions/workflows/pipeline.yml)
 
 ## Next.js App Router Course
 
